@@ -1,0 +1,45 @@
+baseURL = "https://donttext.app/"
+languageCode = "en-us"
+title = "Dont Text"
+theme = "PaperMod"
+paginate = 5
+enableEmoji= true
+
+
+[params]
+  homeText = "You just made a Hugo blog from scratch."
+  defaultTheme = "light"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  env = "production"
+  ShowPostNavLinks = true
+
+
+[params.homeInfoParams]
+enabled = true
+title = "Dont Text"
+content = "Block Spam Texts"
+
+[[menu.main]]
+identifier = "Home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "Download"
+name = "Download"
+url = "https://apps.apple.com/us/app/dont-text/id1540836811/"
+weight = 20
+
+[[menu.main]]
+identifier = "Contact"
+name = "Contact"
+url = "/contact/"
+weight = 30
+
+[[menu.main]]
+identifier = "Blog"
+name = "Blog"
+url = "/blog/"
+weight = 40

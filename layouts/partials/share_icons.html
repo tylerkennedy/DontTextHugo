@@ -1,0 +1,31 @@
+{{- $pageurl := .Permalink }}
+{{- $title := .Title }}
+
+{{ $.Scratch.Set "tags" ""}}
+
+{{- with .Params.Tags }}
+{{ $hashtags := newScratch}}
+{{ range . }}{{ $hashtags.Add "tags" (slice (replaceRE "(\\s)" "" . ))}}{{end}}
+{{ $.Scratch.Set "tags" (delimit ($hashtags.Get "tags") ",")  }}
+{{- end }}
+<link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+
+<div class="share-buttons">
+  <p class="share-heading">Share </p>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on twitter"
+        href="https://twitter.com/intent/tweet/?text={{ $title }}&amp;url={{ $pageurl }}&amp;hashtags={{- $.Scratch.Get "tags" -}}">
+        <i class='bx bxl-twitter bx-sm'></i>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on facebook"
+        href="https://facebook.com/sharer/sharer.php?u={{ $pageurl }}">
+        <i class='bx bxl-facebook bx-sm' ></i>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on linkedin"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $pageurl }}&amp;title={{ $title }}&amp;summary={{ $title }}&amp;source={{ $pageurl }}">
+        <i class='bx bxl-linkedin bx-sm'></i>
+    </a>
+    <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on reddit"
+        href="https://reddit.com/submit?url={{ $pageurl }}&title={{ $title }}">
+        <i class='bx bxl-reddit bx-sm'></i>
+    </a>
+</div>

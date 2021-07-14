@@ -1,0 +1,20 @@
+.post-content a {
+  margin: 0 -0.4em;
+  padding: 0.1em 0.4em;
+  border-radius: 0.8em 0.3em;
+  background: transparent;
+  background-color: #1cd61d70;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  box-shadow: none;
+  text-decoration: underline;
+}
+a.anchor {
+  background-color: var(--theme);
+  padding: 0;
+}
+p.share-heading {
+  align-self: center;
+  padding-right: 15px;
+  font-weight: bold;
+}
