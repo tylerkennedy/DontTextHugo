@@ -1,0 +1,119 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+.menu {
+  margin: 0 8px !important;
+}
+.menu .active {
+    font-weight: 500;
+    border-bottom: 2px solid #1CD61D !important;
+}
+.top-link {
+  font-size: 12px;
+  background: #1CD61D;
+  color: #fff;
+}
+.pagination a {
+  background-color: #1CD61D;
+}
+.greenAccent {
+  color: #1CD61D;
+}
+.logo a {
+  border-bottom: none !important;
+  color: var(--primary);
+}
+.footer-spacer {
+  margin: 0 auto;
+}
+.footer-download {
+  display: flex;
+}
+.footer-download a {
+  border-bottom: none;
+}
+.download-link {
+  border-bottom: none !important;
+}
+.download-button {
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: 50px;
+  color: #fff;
+  background: #1CD61D;
+  border-bottom: none !important;
+
+  line-height: 24px;
+
+	cursor: pointer;
+	outline: none;
+	position: relative;
+  overflow: hidden;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+.download-button:before {
+  font-family: 'icomoon' !important;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	line-height: 2.5;
+	font-size: 120%;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+
+  left: 0;
+  top: -100%;
+
+  content: "\ea3e";
+
+}
+.download-button:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.download-button:active {
+	top: 2px;
+}
+
+.download-button span {
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	-webkit-transition: all 0.3s;
+	-webkit-backface-visibility: hidden;
+	-moz-transition: all 0.3s;
+	-moz-backface-visibility: hidden;
+	transition: all 0.3s;
+	backface-visibility: hidden;
+  border-bottom: none !important;
+}
+.download-button:hover span {
+	-webkit-transform: translateY(300%);
+	-moz-transform: translateY(300%);
+	-ms-transform: translateY(300%);
+	transform: translateY(300%);
+}
+
+.download-button:active:before {
+	color: #eee;
+}
+
+.download-button:hover:before {
+	top: 0;
+}
