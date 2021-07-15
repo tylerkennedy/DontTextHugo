@@ -1,7 +1,7 @@
 ---
 title: "How to Block Spam Texts from Gmail"
 date: 2021-07-13T19:54:23-04:00
-draft: true
+draft: false
 ---
 
 Gmail addresses, like phone numbers, can be used to send spam text messages. You may be most familiar with spam texts from regular phone numbers. However, using email providers like [Gmail](https://gmail.com) is becoming more common.
