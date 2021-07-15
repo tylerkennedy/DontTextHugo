@@ -10,6 +10,8 @@ And for some reason, these spam texts seem harder to block than the rest. No mat
 
 ![Spam Text from Email Address](/assets/images/emailSpamText.jpeg#center "Spam Text from Email Address")
 
+> **Download [Dont Text](https://apps.apple.com/us/app/dont-text/id1540836811) on the App Store to block spam texts like this one**
+
 ## Why Do Spam Texts Come from an Email Address?
 
 Many spammers use an email address to send spam texts instead of a phone number for several reasons. First, it is easier to get an email address than a phone number. You can create an email address for free on tons of sites. You can also create an email anonymously without needing to put in any personal info.
