@@ -33,13 +33,19 @@ url = "https://apps.apple.com/us/app/dont-text/id1540836811/"
 weight = 20
 
 [[menu.main]]
+identifier = "Enterprise"
+name = "Enterprise"
+url = "/enterprise/"
+weight = 30
+
+[[menu.main]]
 identifier = "Contact"
 name = "Contact"
 url = "/contact/"
-weight = 30
+weight = 40
 
 [[menu.main]]
 identifier = "Blog"
 name = "Blog"
 url = "/blog/"
-weight = 40
+weight = 50
