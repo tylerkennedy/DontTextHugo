@@ -269,9 +269,8 @@ Interpretation and Definitions Interpretation The words of which the initial let
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://donttext.app/enterprise/</guid>
-      <description>   Launch Easy to Manage SMS Phishing Tests Send employees custom phishing text messages with our online simulation platform.
-Deploy a sms phishing test campaign in minutes.
-        Download Dont Text From the App Store   Launching a Test is Easy  Setup Your Simulated Attack   Choose Text Message Templates   Schedule a Time   Generate Test Reports      Pricing   </description>
+      <description>Launch SMS Phishing Simulations in Minutes -- Simulate SMS Phishing Attacks Send your organization custom phishing text messages with our online simulation platform
+      Defend Against Mobile Phishing  Phishing via text message is a massive growing threat. Prepare your organization members to spot mobile phishing using simulated SMS phishing attacks.  Mobile security training raises security awareness and helps members spot real phishing attacks.</description>
     </item>
     
     <item>
@@ -282,6 +281,16 @@ Deploy a sms phishing test campaign in minutes.
       <guid>https://donttext.app/contact/</guid>
       <description> form { width: 100%; } input { width: 100%; padding: 10px; margin: 14px 0; padding-inline-start: var(--radius); overflow-x: hidden; border-radius: var(--radius); background: var(--code-bg); border: 1px solid var(--border); } textarea { width: 100%; height: 200px; padding: 10px; margin: 14px 0; padding-inline-start: var(--radius); border-radius: var(--radius); background: var(--code-bg); border: 1px solid var(--border); }  Get in touch for questions, concerns, and general app suport.
 Email Message   </description>
+    </item>
+    
+    <item>
+      <title>Contact Sales</title>
+      <link>https://donttext.app/contact-enterprise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://donttext.app/contact-enterprise/</guid>
+      <description> form { width: 100%; } input { width: 100%; padding: 10px; margin: 14px 0; padding-inline-start: var(--radius); overflow-x: hidden; border-radius: var(--radius); background: var(--code-bg); border: 1px solid var(--border); } textarea { width: 100%; height: 200px; padding: 10px; margin: 14px 0; padding-inline-start: var(--radius); border-radius: var(--radius); background: var(--code-bg); border: 1px solid var(--border); }  Fill out this form to get started with Dont Text&#39;s enterprise SMS phishing simulation platform.
+Name Email Company Message   </description>
     </item>
     
     <item>
