@@ -24,7 +24,7 @@ Phishing emails usually come from an email address that is very similar to the r
 
 Smishing texts operate almost identical to phishing emails. Spammers send out texts with a link and a convincing message to get you to click. The link redirects you to a fake login page that will steal your password.
 
-Users are more aware of phishing emails than ever. Scammers need to find creative new ways to successfully execute their attacks. This has led to the transition from sending phishing emails to sending phishing texts. People are not used to seeing phishing texts and are less cautious when it comes to clicking links in text messages. This makes smishing more effective than phishing, this is the main cause for the growth of spam texts.
+Users are more aware of phishing emails than ever. Scammers need to find creative new ways to successfully execute their attacks. This has led to the transition from sending phishing emails to sending phishing texts. People are not used to seeing phishing texts and are less cautious when it comes to [clicking links in text messages](/blog/clicked-link-spam-text). This makes smishing more effective than phishing, this is the main cause for the growth of spam texts.
 
 ## How to Spot Smishing
 

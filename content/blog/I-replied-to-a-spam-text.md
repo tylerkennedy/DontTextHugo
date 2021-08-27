@@ -26,7 +26,7 @@ There is the possibility that a link in a spam text could download a virus or ma
 
 ## Stop Clicking Links :stop_sign:
 
-Never click a link from a spam text message. If you do not know or trust the sender, do not open any links that they send you (this also applies to emails.)
+Never [click a link from a spam text message](/blog/clicked-link-spam-text). If you do not know or trust the sender, do not open any links that they send you (this also applies to emails.)
 
 Clicking links from an unknown sender is never a good idea. Opening up a link from an unknown sender could result in a nasty surprise. The link could take you to a phishing website that will try to steal your password.
 
