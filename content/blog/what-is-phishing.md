@@ -50,7 +50,7 @@ There are several easy ways to spot and prevent being a victim to attacks.
 
 ### Never Click Links
 
-The best way you can prevent an attack is by not clicking on links. Phishers send links that take users to realistic webpages designed to steal passwords. To ensure that you never go to the wrong website and hand over your password, never click on links in an emails or text messages from unknown senders.
+The best way you can prevent an attack is by not [clicking on links](/blog/clicked-link-spam-text). Phishers send links that take users to realistic webpages designed to steal passwords. To ensure that you never go to the wrong website and hand over your password, never click on links in an emails or text messages from unknown senders.
 
 As a rule of thumb, just ignore the message and move on. If there really is something wrong with your account, the company will reach out again. You can always go to your account directly to make sure nothing is wrong.
 

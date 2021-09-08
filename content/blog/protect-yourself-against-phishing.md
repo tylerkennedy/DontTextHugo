@@ -14,7 +14,7 @@ The safest thing to do if you receive a phishing email is to ignore it, report i
 
 ## Do Not Click Links
 
-The easiest way to protect yourself from phishing is to never click on links in emails. The danger of clicking on links in an email is that you never truly know where links will take you. Phishing emails use the context of their message to get users to click on a link. The message will be really convincing with a good reason to click. The link will even take you to a webpage that looks just like a normal login page. However, a phishing website is designed to look identical to a real website to steal your password.
+The easiest way to protect yourself from phishing is to never click on links in emails. The danger of [clicking on links](/blog/clicked-link-spam-text) in an email is that you never truly know where links will take you. Phishing emails use the context of their message to get users to click on a link. The message will be really convincing with a good reason to click. The link will even take you to a webpage that looks just like a normal login page. However, a phishing website is designed to look identical to a real website to steal your password.
 
 It can be really hard not to click on links. We all want to do it. It is tempting to click on links because that's what the internet has trained us to do. Every website is full of brightly colored buttons, banners, and popups labeled 'click here'. It is no surprise that phishing is such a problem because we are all being programed to click on links.
 

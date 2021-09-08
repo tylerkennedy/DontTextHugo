@@ -11,7 +11,7 @@ Low startup cost and minimal technical skill make phishing so popular. However, 
 > **Phishing is popular because it's cheap, easy, and it just works.**
 
 
-Awareness is key to preventing phishing attacks and protecting yourself. Phishing has remained so common that most users experience it daily. The good news is that security education has come a long way. Internet users are more aware of phishing than ever before. However, so many people still don't understand what phishing is or how it works. Understanding how phishing attacks work enables users to spot phishing before it's too late. Spotting phishing attacks before you hand over your information is the best way to stay safe. 
+Awareness is key to preventing phishing attacks and protecting yourself. Phishing has remained so common that most users experience it daily. The good news is that security education has come a long way. Internet users are more aware of phishing than ever before. However, so many people still don't understand what phishing is or how it works. Understanding how phishing attacks work enables users to spot phishing before it's too late. [Spotting phishing attacks](/blog/7-ways-to-spot-phishing-emails) before you hand over your information is the best way to stay safe. 
 
 In this post, we are going to break down the basic elements of a phishing attack, how a phishing attack is executed and, how phishers profit from an attack.
 
