@@ -2,6 +2,10 @@
 title: "I Clicked on a Link in a Spam Text: Here's What to Do Next"
 date: 2021-08-21T15:18:00-04:00
 draft: false
+cover:
+    image: "assets/images/click-link-spam-text-banner.png"
+    alt: "Clicked on a Spam Text Message"
+    relative: false 
 ---
 
 Spam texts continue to find their way onto our phones. Spammers send their texts en masse, it is possible that you even receive multiple spam texts in a single day. 
