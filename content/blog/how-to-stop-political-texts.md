@@ -2,6 +2,10 @@
 title: "How to Stop Political Texts"
 date: 2021-06-20T20:12:45-04:00
 draft: false
+cover:
+    image: "assets/images/stop-political-spam-texts-banner.png"
+    alt: "Block Spam Texts from Gmail"
+    relative: false 
 ---
 
 Every election cycle the number of unwanted spam texts only seems to increase. Political campaigns now send text messages to extend their outreach. Political texts are used to register new voters, gather support for candidates, and raise funds for political campaigns. 
