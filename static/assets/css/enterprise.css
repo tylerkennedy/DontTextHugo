@@ -335,16 +335,21 @@ h2 {
     height: 420px;
     align-self: center;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
   }
 
   .pricing-box-right h3 {
     color: #fff;
     text-align: center;
-    font-size: 2.8em;
-    padding: 40px 0px 10px 0px;
+    /* font-size: 2.8em; */
+    padding: 100px 0px 10px 0px;
+    font-size: 1.6em;
   }
 
   .contact-button {
-    margin-top: 100px;
+    margin: 0 auto;
+    /* margin-top: 100px; */
   }
 }
