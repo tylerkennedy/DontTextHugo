@@ -2,6 +2,10 @@
 title: "Are Spam Text Messages Dangerous?"
 date: 2021-09-02T15:25:40-04:00
 draft: false
+cover:
+    image: "assets/images/are-spam-text-messages-dangerous-banner.png"
+    alt: "Spam Text Messages Are Dangerous"
+    relative: false 
 ---
 
 Spam texts are without a doubt annoying, but you might not think they are dangerous. No one needs more notifications on their phone, especially not junk messages. Besides being annoying, there is a concern of safety when it comes to receiving spam texts. 
