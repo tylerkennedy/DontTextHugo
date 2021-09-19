@@ -4,7 +4,7 @@ date: 2021-06-20T20:12:45-04:00
 draft: false
 cover:
     image: "assets/images/stop-political-spam-texts-banner.png"
-    alt: "Block Spam Texts from Gmail"
+    alt: "Stop Political Spam Texts"
     relative: false 
 ---
 
