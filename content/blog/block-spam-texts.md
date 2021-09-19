@@ -3,6 +3,10 @@ title: "Block Spam Texts with Dont Text"
 date: 2021-05-28T23:35:26-04:00
 draft: false
 weight: 1
+cover:
+    image: "assets/images/spam-texts-banner.png"
+    alt: "Spam Text Messages"
+    relative: false 
 ---
 
 Dont Text is a simple and powerful app for blocking spam text messages. You can [download Dont Text](https://apps.apple.com/us/app/dont-text/id1540836811) for free on the App Store. Dont Text is available for both iPhone and iPad. 

@@ -2,6 +2,10 @@
 title: "How to Block Spam Texts from Email Addresses"
 date: 2021-06-23T00:56:38-04:00
 draft: false
+cover:
+    image: "assets/images/block-spam-texts-email-banner.png"
+    alt: "Block Spam Texts from Email Addresses"
+    relative: false 
 ---
 
 Sending spam emails has been around as long as well, email. As the world has gone mobile, there has been a growth in spam texts and [smishing](/blog/smishing-definition). Now spam emails and spam texts have teamed up to send you spam texts from email addresses. This is the mashup that nobody asked for.
