@@ -2,6 +2,10 @@
 title: "Was My Phone Number Leaked in the Facebook Data Breach?"
 date: 2021-06-22T18:15:33-04:00
 draft: false
+cover:
+    image: "assets/images/facebook-leak-banner.png"
+    alt: "Facebook Phone Number Leak "
+    relative: false 
 ---
 ![Facebook Data Breach](/assets/images/facebookCover.png#center "Facebook Data Breach")
 

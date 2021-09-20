@@ -2,6 +2,10 @@
 title: "Dont Text: What's New in Version 1.3"
 date: 2021-03-13T18:13:44-05:00
 draft: false
+cover:
+    image: "assets/images/dont-text-update-banner.png"
+    alt: "Dont Text Update"
+    relative: false 
 ---
 
 Version 1.3 of [Dont Text](/download) is now available on the [App Store](/download). I wanted to take some time to share  the new improvements that are coming your way. I plan writing a new post like this one for all new versions of Dont Text explaining what is new as I release each update.

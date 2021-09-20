@@ -2,6 +2,10 @@
 title: "How to Block Spam Texts on iPad"
 date: 2021-05-28T18:37:16-04:00
 draft: false
+cover:
+    image: "assets/images/block-spam-texts-ipad-banner.png"
+    alt: "Block Spam Texts on iPad"
+    relative: false 
 ---
 Spam texts are annoying enough on your phone. They are even more annoying when they start showing up on your iPad. Fortunately, there are several ways to shield your iPad from spam text messages.
 

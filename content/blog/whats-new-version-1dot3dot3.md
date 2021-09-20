@@ -2,6 +2,10 @@
 title: "Dont Text: What's New Version 1.3.3"
 date: 2021-05-19T18:40:22-04:00
 draft: false
+cover:
+    image: "assets/images/dont-text-update-banner.png"
+    alt: "Dont Text Update"
+    relative: false 
 ---
 
 This weekend the latest update for Dont Text was released on the App Store. You can download or update [Dont Text](https://apps.apple.com/us/app/dont-text/id1540836811) today to try out the newest version. There are some exciting new changes to Dont Text, so without further ado, let's dive in.

@@ -2,6 +2,10 @@
 title: "How to Stop Spam Texts from Different Numbers"
 date: 2021-06-02T22:04:58-04:00
 draft: false
+cover:
+    image: "assets/images/stop-spam-texts-different-phone-numbers-banner.png"
+    alt: "Stop Spam Texts from Different Numbers"
+    relative: false 
 ---
 
 What is worse than one spam text? Hundreds of them. A phone full of unwanted text messages, from different numbers is enough to drive you crazy.
