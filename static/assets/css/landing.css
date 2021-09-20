@@ -14,7 +14,7 @@ section {
 }
 .container {
   align-items: center;
-  margin: auto;
+  margin: 0px auto;
   width: 90%;
 }
 .greenAccent {
@@ -43,14 +43,23 @@ h2 {
 }
 /* Hero */
 #hero {
-  min-height: calc(100vh - 60px);
+  height: calc(90vh - 60px);
+  max-height: calc(90vh - 60px);
+  min-height: 400px;
   position: relative;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding: 0px;
+}
+#hero .container {
+  height: 45vh;
+  max-height: 45vh;
+  display: flex;
+  justify-content: center;
 }
 .hero-svg {
-  height: 25%;
+  height: 35%;
   background-image: url("/assets/images/hero-ellipse.svg");
   background-position: center top;
   background-repeat: no-repeat;
@@ -76,7 +85,6 @@ h2 {
   flex-direction: column;
   align-items: center;
   align-self: center;
-  padding-bottom: 150px;
 }
 .hero-container h1 {
   font-size: 1.8em;
@@ -104,6 +112,8 @@ h2 {
 @media only screen and (min-width: 768px) {
   #hero {
     margin-bottom: 150px;
+    height: calc(100vh - 60px);
+    max-height: calc(100vh - 60px);
   }
   .hero-container h1 {
     font-size: 3em;
@@ -125,7 +135,7 @@ h2 {
     width: 150px;
     height: 150px;
     right: calc(50% - 75px - 300px);
-    top: 50%; 
+    top: 40%; 
   }
   .qrHover {
     margin-top: 15px;
