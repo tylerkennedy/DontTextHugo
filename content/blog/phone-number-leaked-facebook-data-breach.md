@@ -7,7 +7,6 @@ cover:
     alt: "Facebook Phone Number Leak "
     relative: false 
 ---
-![Facebook Data Breach](/assets/images/facebookCover.png#center "Facebook Data Breach")
 
 Facebook is at the forefront of yet another privacy nightmare. In early April, it was discovered that over 500 million phone numbers and emails were leaked in the most recent Facebook data breach. Half a billion people now have their personal information exposed online. The data in the leak includes names, phone numbers, email addresses, passwords, birth dates, and locations.
  
