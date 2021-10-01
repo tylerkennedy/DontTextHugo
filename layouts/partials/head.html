@@ -33,6 +33,7 @@
 {{- /*  bundle all required css  */}}
 {{- /*  Add extended css after theme style */ -}}
 {{- $stylesheet := (slice $common $extended) | resources.Concat "assets/css/stylesheet.css" | minify }}
+<link href="/assets/css/custom-theme.css" rel="stylesheet">
 
 {{- if not .Site.Params.assets.disableFingerprinting }}
 {{- $stylesheet := $stylesheet | fingerprint -}}
