@@ -30,7 +30,7 @@ disableShare: true
     // Send POST request, stop loading spinner
     if (sender !== '') {
       console.log("Sending request")
-      let response = await fetch('https://donttext.app/', {
+      let response = await fetch('https://donttext.app/api', {
         method: 'POST',
         headers: {
           Accept: 'application/json',
