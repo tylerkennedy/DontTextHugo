@@ -1,0 +1,118 @@
+---
+draft: false
+ShowReadingTime: false
+disableShare: true
+---
+<script>
+
+  function clearResult() {
+    document.getElementById('results').style.display = 'none';
+    document.getElementById('spam').style.display = 'none';
+    document.getElementById('not-spam').style.display = 'none';
+    if (window.innerWidth > 1000) {
+      document.getElementById('hero-div').style.height = '75vh';
+    }
+    document.getElementById('sender-input').value = "";
+  }
+
+  function resetLoader() {
+    document.getElementById('submit').style.display = 'block';
+    document.getElementById('loader').style.display = 'none';
+  }
+
+  async function  sendRequest() {
+    document.getElementById('submit').style.display = 'none';
+    document.getElementById('loader').style.display = 'block';
+
+    const sender = document.getElementById('sender-input').value;
+    console.log(sender);
+    
+    // Send POST request, stop loading spinner
+    if (sender !== '') {
+      console.log("Sending request")
+      let response = await fetch('http://donttext.app/', {
+        method: 'POST',
+        headers: {
+          Accept: 'application/json',
+        },
+        body: JSON.stringify({sender: sender})
+      })
+      if (response.ok) {
+        let json = await response.json();
+        document.getElementById('hero-div').style.height = 'auto';
+        document.getElementById('results').style.display = 'block';
+        
+        if (json.action) {
+          document.getElementById('spam-sender').innerText = sender;
+          document.getElementById('spam').style.display = 'block';
+        } else {
+          document.getElementById('not-spam-sender').innerText = sender;
+          document.getElementById('not-spam').style.display = 'block';
+        }
+
+        resetLoader()
+      }
+      else {
+        console.log('Error sending request')
+        resetLoader()
+      }
+    }
+  }
+</script>
+<head>
+  <link href="/assets/css/tools.css" rel="stylesheet">
+  <link rel="preload" as="style" href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css" onload="this.rel='stylesheet'">
+<head>
+<body>
+  <section id="hero">
+    <div id="hero-div">
+      <h1>Spam Text <br/> Number Lookup</h1>
+      <p>Enter a phone number or email address to check if it is spam</p>
+      <div class="input-row">
+        <input 
+          type="text" 
+          onfocus="clearResult()"
+          name="" 
+          id="sender-input" 
+          placeholder="Enter phone or email"
+          required  
+        >
+        <input class="submit-button"
+          style="cursor: pointer;"
+          id="submit"
+          type="button"
+          value="Search"
+          onclick="sendRequest()"
+        />
+        <button class="submit-button" id="loader" disabled>
+          <div class="loader"></div>
+        </button>
+      </div>
+      <div id="results" class="results">
+        <div id="spam">
+          <div class="icon-row">
+            <i class='bx bxs-error'></i>
+            <h2 id="spam-sender"></h2>
+          </div>
+          <p>Oh no, this number is likely spam</p>
+        </div>
+        <div id="not-spam">
+          <div class="icon-row">
+            <i class='bx bx-check-circle'></i>
+            <h2 id="not-spam-sender"></h2>
+          </div>
+          <p>Looks good, this number is unlikely spam</p>
+        </div>
+      </div>
+      <div class="powered-by">
+        <h3>Download Dont Text <br/> to block spam texts</h3>
+        <a href="https://apps.apple.com/us/app/dont-text/id1540836811">
+          <img class="app-store-button" src="/assets/images/blackDownload.svg" 
+          title="Download Dont Text on the App Store" 
+          alt="Download Dont Text on the App Store" 
+          loading="lazy" width="150" height="50">
+        </a>
+      </div>
+    </div>
+  </section>
+</body>
