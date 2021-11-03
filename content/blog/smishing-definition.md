@@ -1,5 +1,5 @@
 ---
-title: "Definition of Smishing and How to Spot an Attack"
+title: "What is Smishing and How to Spot an Attack"
 date: 2021-03-15T19:12:20-05:00
 draft: false
 ---
