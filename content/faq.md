@@ -81,7 +81,7 @@ Worry Free Filtering will automatically block spam texts for you. This allows yo
 
 ### How long is my subscription?
 
-A subscription to Worry Free Filtering lasts 1 year for $3.99.
+A subscription to Worry Free Filtering lasts 1 year for $4.99.
 
 ### Can I purchase a shorter duration subscription?
 
