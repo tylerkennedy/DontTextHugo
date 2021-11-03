@@ -2,6 +2,11 @@
 title: "I Got a ROCKSTAR Energy Spam Text"
 date: 2021-05-09T01:02:00-04:00
 draft: false
+cover:
+    image: "assets/images/rockstar-energy-spam-text-banner.png"
+    alt: "Stop Political Spam Texts"
+    relative: false 
+
 ---
 
 A while ago, I got a spam text claiming to be from ROCKSTAR Energy. It was painfully obvious that this was a fake message. I did a little research and found that this is an older scam known as [Car Wrap Scams](https://www.consumer.ftc.gov/blog/2016/08/how-spot-car-wrap-scam)
