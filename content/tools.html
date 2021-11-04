@@ -2,7 +2,7 @@
 draft: false
 ShowReadingTime: false
 disableShare: true
-title: "Free Spam Text Message Reverse Number Lookup"
+title: "Free Spam Text Message Number Lookup"
 description: "Free reverse lookup tool for text messages, short codes, spam texts, and phishing texts. Enter a phone number, short code, or email address to check if it is used to send spam text messages."
 ---
 <script>
@@ -15,6 +15,7 @@ description: "Free reverse lookup tool for text messages, short codes, spam text
       document.getElementById('hero-div').style.height = '75vh';
     }
     document.getElementById('sender-input').value = "";
+    resetLoader();
   }
 
   function resetLoader() {
@@ -42,6 +43,7 @@ description: "Free reverse lookup tool for text messages, short codes, spam text
         let json = await response.json();
         document.getElementById('hero-div').style.height = 'auto';
         document.getElementById('results').style.display = 'block';
+        document.getElementById('results').classList.add("animate__animated", "animate__fadeInUp");
         
         if (json.action) {
           document.getElementById('spam-sender').innerText = sender;
@@ -63,6 +65,7 @@ description: "Free reverse lookup tool for text messages, short codes, spam text
 <head>
   <link href="/assets/css/tools.css" rel="stylesheet">
   <link rel="preload" as="style" href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css" onload="this.rel='stylesheet'">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 <head>
 <body>
   <section id="hero">
@@ -102,7 +105,7 @@ description: "Free reverse lookup tool for text messages, short codes, spam text
             <i class='bx bx-check-circle'></i>
             <h2 id="not-spam-sender"></h2>
           </div>
-          <p>Looks good, this number is unlikely spam</p>
+          <p>Nothing to see here, this number is unlikely spam</p>
         </div>
       </div>
       <div class="powered-by">
