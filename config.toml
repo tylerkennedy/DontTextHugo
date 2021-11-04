@@ -35,7 +35,7 @@ weight = 20
 [[menu.main]]
 identifier = "Tools"
 name = "Tools"
-url = "/tools/"
+url = "/spam-text-number-lookup/"
 weight = 30
 
 [[menu.main]]
