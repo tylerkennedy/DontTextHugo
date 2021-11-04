@@ -4,7 +4,7 @@ date: 2021-05-09T01:02:00-04:00
 draft: false
 cover:
     image: "assets/images/rockstar-energy-spam-text-banner.png"
-    alt: "Stop Political Spam Texts"
+    alt: "ROCKSTAR Energy Spam Text Message"
     relative: false 
 
 ---
