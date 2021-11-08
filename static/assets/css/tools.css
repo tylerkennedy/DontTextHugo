@@ -24,6 +24,10 @@ a {
   display: none;
 }
 
+.entry-cover {
+  display: none;
+}
+
 .post-content {
   height: calc(100vh - 50px);
 }
