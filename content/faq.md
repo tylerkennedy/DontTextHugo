@@ -27,7 +27,18 @@ Dont Text is only available for iOS devices.
 
 ### I'm still getting spam texts. Why isn't the app working?
 
-Make sure you followed the steps [above](#how-do-i-enable-text-message-filtering) to enable text filtering. Next, check that you have added keywords with the 'block' setting inside the Dont Text app. Texts will only be blocked if they are from a sender not saved in your contacts and they contain a keyword with the 'block' setting. If a message contains a keyword with the 'allow' setting, it will not be blocked.
+If you are still getting spam texts after downloading Dont Text, there are a couple things to check for.
+
+1. Make sure you followed the steps [above](#how-do-i-enable-text-message-filtering) to enable text filtering. 
+
+2. Check that you have added keywords with the 'block' setting inside the app or upgraded to Worry Free Filtering.
+
+3. Check that you do not have keywords with the 'allow' setting allowing texts to pass through the filter. 'Allow' keywords have priority over 'block' keywords and will not block the text if they are both in the text message body.
+
+4. Dont Text can only filter green SMS text messages. If spam texts are coming from blue iMessage addresses or numbers, they cannot be filtered.
+
+5. Worry Free Filtering requires an internet connection to block texts. Make sure you are connected to WiFi or a data plan at the moment you receive the texts so Dont Text can filtering them.
+
 
 ### What's the difference between 'block' and 'allow' keywords?
 
