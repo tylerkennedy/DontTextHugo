@@ -1,5 +1,5 @@
 ---
-title: "Why Am I Getting Spam Text Messages?"
+title: "Why Am I Getting Spam Text Messages All of a Sudden?"
 date: 2021-02-10T17:56:12-05:00
 draft: false
 ---
