@@ -1,5 +1,5 @@
 ---
-title: "How to Block Spam Texts on iPad"
+title: "How To Stop Spam Messages From Going to My iPad"
 date: 2021-05-28T18:37:16-04:00
 draft: false
 cover:
