@@ -12,7 +12,7 @@
 <meta name="keywords" content="{{ if .Params.keywords -}}
     {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
     {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}" />
-<meta name="description" content="Dont Text makes it easy to block spam texts on iPhone for free.">
+<!-- <meta name="description" content="Dont Text makes it easy to block spam texts on iPhone for free."> -->
 <meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if .IsPage}}
     {{- .Summary | default (printf "%s - %s" .Title  .Site.Title) }}{{- else }}
     {{- with .Site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">

@@ -1,10 +1,11 @@
 ---
 title: "5 Steps for Recovering Your Account From A Phishing Attack"
+description: "Phishing attacks leave your online accounts vulnerable to attackers. Protect and recover your account from a phishing attack with five easy steps."
 date: 2021-05-05T22:42:14-04:00
 draft: false
 ---
 
-Most people do not expect to become victims of a phishing attack. Finding out that your accounts were compromised in a [phishing attack](/blog/what-is-phishing/) is scary. You will feel shocked and confused. You won't believe that it happened to you. You'll ask yourself, 'how was I phished'? It seems so obvious now, right? No need to beat yourself up over it, now is the time to take action to fix it. Stay calm and try not to panic, you can still take steps to recover your account and minimize the damange. For every step involved, time is of the escense. Act fast, waiting only wastes precious time and gives you less opportunity to recover your accounts.
+Most people do not expect to become victims of a phishing attack. Finding out that your accounts were compromised in a [phishing attack](/blog/what-is-phishing/) is scary. You will feel shocked and confused. You won't believe that it happened to you. You'll ask yourself, 'how was I phished'? It seems so obvious now, right? No need to beat yourself up over it, now is the time to take action to fix it. Stay calm and try not to panic, you can still take steps to recover your account and minimize the damage. For every step involved, time is of the essence. Act fast, waiting only wastes precious time and gives you less opportunity to recover your accounts.
 
 ## 1. Change Your Passwords Immediately
 
@@ -38,4 +39,4 @@ You can report phishing websites directly to Google through [Google Safe Browsin
 
 ## 5. Prevent Being Phished
 
-After you've taken all the steps to recover from this phishing attack, it is time to start working on preventing the next one. Avoiding phishing is a lot more favorable to recovering from a phishing attack. The recovery process can be annoying and messy. It is often easier to [protect yourself from phishing](/blog/protect-yourself-against-phishing) in the first place. Taking simple precautions to avoid phishing and spam messages can save you from a world of headaches trying to resecure your accounts. 
+After you've taken all the steps to recover from this phishing attack, it is time to start working on preventing the next one. Avoiding phishing is a lot more favorable to recovering from a phishing attack. The recovery process can be annoying and messy. It is often easier to [protect yourself from phishing](/blog/protect-yourself-against-phishing) in the first place. Taking simple precautions to avoid phishing and spam messages can save you from a world of headaches trying to re-secure your accounts. 

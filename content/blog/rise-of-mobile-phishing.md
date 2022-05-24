@@ -1,5 +1,6 @@
 ---
 title: "The Rise of Mobile Phishing"
+description: "Mobile phishing is a specific type of phishing attack that targets users on mobile phones and tablets."
 date: 2021-05-04T22:46:40-04:00
 draft: false
 ---

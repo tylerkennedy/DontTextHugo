@@ -1,5 +1,6 @@
 ---
 title: "I Got a ROCKSTAR Energy Spam Text"
+description: "Did you receive a strange text message from an unknown number claiming to be ROCKSTAR Energy? This text is most likely a text scam."
 date: 2021-05-09T01:02:00-04:00
 draft: false
 cover:

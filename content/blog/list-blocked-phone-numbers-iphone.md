@@ -1,5 +1,6 @@
 ---
 title: "How to See List of All Blocked Phone Numbers on iPhone"
+description: "View all of the phone numbers blocked in the settings on an iPhone and add or remove phone numbers."
 date: 2021-09-08T14:28:35-04:00
 draft: false
 cover:

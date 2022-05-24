@@ -1,5 +1,6 @@
 ---
 title: "How to Block Spam Texts on iPhone"
+description: "Learn how to protect your iPhone from spam text messages by blocking annoying spam text message senders."
 date: 2021-02-02T19:57:09-05:00
 draft: false
 ---

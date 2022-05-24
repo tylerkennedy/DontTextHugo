@@ -1,5 +1,6 @@
 ---
 title: "Launching our New Spam Text Number Lookup Tool"
+description: "Dont Text is excited to launch a new tool for checking if any phone number or email address is used to send spam text messages."
 date: 2021-11-03T23:00:22-04:00
 draft: false
 cover:

@@ -1,5 +1,6 @@
 ---
 title: "How to Block Spam Texts from Email Addresses"
+description: "Spam texts now come from email addresses and phone numbers too. Learn how you can block spam texts from email addresses."
 date: 2021-06-23T00:56:38-04:00
 draft: false
 cover:

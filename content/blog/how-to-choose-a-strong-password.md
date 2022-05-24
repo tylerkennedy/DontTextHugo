@@ -1,5 +1,6 @@
 ---
 title: "2021 Guide To Choosing a Strong Password"
+description: "Choosing a strong password is essential to protecting your online accounts from malicious attackers."
 date: 2021-03-27T22:43:51-04:00
 draft: true
 ---

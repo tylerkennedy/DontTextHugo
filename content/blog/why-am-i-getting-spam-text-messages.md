@@ -1,5 +1,6 @@
 ---
 title: "Why Am I Getting Spam Text Messages All of a Sudden?"
+description: "Are you getting a ton of spam text messages all of a sudden? Learn how to block these spam text messages instantly for free."
 date: 2021-02-10T17:56:12-05:00
 draft: false
 ---

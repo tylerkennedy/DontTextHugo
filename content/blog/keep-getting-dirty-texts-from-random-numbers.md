@@ -1,5 +1,6 @@
 ---
 title: "I Keep Getting Dirty Texts from Random Numbers - How to Block"
+description: "Block inappropriate texts from random unknown numbers on iPhone using the free Dont Text app available for iPhone."
 date: 2021-12-15T23:35:26-04:00
 draft: false
 cover:
@@ -8,7 +9,7 @@ cover:
     relative: false 
 ---
 
-Recieving unwanted dirty text messages from random phone numbers is awful. Whether it is inappropriate, X-rated messages or foul-mouthed texts no one should be subjected to annoying texts they did not sign up for.
+Receiving unwanted dirty text messages from random phone numbers is awful. Whether it is inappropriate, X-rated messages or foul-mouthed texts no one should be subjected to annoying texts they did not sign up for.
 
 Besides being annoying and gross, you might find these messages offensive. If you have young children that access your phone or device, you especially do not want them seeing these messages. 
 

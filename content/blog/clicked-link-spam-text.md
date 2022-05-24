@@ -1,5 +1,6 @@
 ---
 title: "I Clicked on a Link in a Spam Text: Here's What to Do Next"
+description: "Have you ever accidentally clicked on a link in a spam text? Find out what to do next to stay safe from spam text messages."
 date: 2021-08-21T15:18:00-04:00
 draft: false
 cover:

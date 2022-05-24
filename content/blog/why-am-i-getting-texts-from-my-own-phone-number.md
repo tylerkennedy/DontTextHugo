@@ -1,5 +1,6 @@
 ---
 title: "Why Am I Getting Texts From My Own Phone Number - iPhone"
+description: "Did you know it was possible to get spam texts from your own phone number? Find out more about this new type of attack and how to stop it."
 date: 2022-03-29T16:56:56-04:00
 draft: false
 cover:

@@ -1,5 +1,6 @@
 ---
 title: "Phishing Attacks Explained: The Anatomy of A Phishing Attack"
+description: "Phishing attacks are an online attack that targets victims with emails to steal their online account passwords."
 date: 2021-04-20T20:45:38-04:00
 draft: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Are Spam Text Messages Dangerous?"
+description: "You already know spam texts are annoying, but have you ever wondered if they are dangerous? Dive into the dangers of spam texts."
 date: 2021-09-02T15:25:40-04:00
 draft: false
 cover:

@@ -1,5 +1,6 @@
 ---
 title: "How to Stop Political Texts"
+description: "Block political spam text messages for free using the Dont Text app for iPhone."
 date: 2021-06-20T20:12:45-04:00
 draft: false
 cover:

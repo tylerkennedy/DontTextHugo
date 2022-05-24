@@ -1,5 +1,6 @@
 ---
 title: "How To Stop Spam Messages From Going to My iPad"
+description: "Learn how to protect your iPad from spam text messages by blocking pesky spam text message senders."
 date: 2021-05-28T18:37:16-04:00
 draft: false
 cover:

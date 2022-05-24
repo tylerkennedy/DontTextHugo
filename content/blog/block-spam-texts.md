@@ -1,5 +1,6 @@
 ---
 title: "Block Spam Texts with Dont Text"
+description: "Discover how you can block all spam texts on iPhone with the free Dont Text app."
 date: 2021-05-28T23:35:26-04:00
 draft: false
 weight: 1

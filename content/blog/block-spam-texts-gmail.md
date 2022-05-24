@@ -1,5 +1,6 @@
 ---
 title: "How to Block Spam Texts from Gmail"
+description: "Spam texts now come from Gmail addresses and phone numbers too. Learn how you can block spam texts from Gmail addresses."
 date: 2021-07-13T19:54:23-04:00
 draft: false
 cover:

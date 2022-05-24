@@ -1,5 +1,6 @@
 ---
 title: "What Is Phishing: Definition and Example of a Phishing Attack"
+description: "Phishing attacks target victims online with fake emails attempting to steal online account passwords."
 date: 2021-03-27T22:35:17-04:00
 draft: false
 ---

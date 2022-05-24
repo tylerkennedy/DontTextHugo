@@ -1,5 +1,6 @@
 ---
 title: "Dont Text: What's New Version 1.3.3"
+description: "Find out what is new in the latest version of Dont Text - Update Version 1.3.3"
 date: 2021-05-19T18:40:22-04:00
 draft: false
 cover:

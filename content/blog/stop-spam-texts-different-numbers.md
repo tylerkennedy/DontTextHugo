@@ -1,5 +1,6 @@
 ---
 title: "How to Stop Spam Texts from Different Numbers"
+description: "Block spam texts from different phone numbers by blocking spam text messages based on content instead of blocking individual phone numbers."
 date: 2021-06-02T22:04:58-04:00
 draft: false
 cover:

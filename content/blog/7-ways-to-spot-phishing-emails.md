@@ -1,5 +1,6 @@
 ---
 title: "7 Ways to Spot Phishing Emails"
+description: "People are constantly attacked with dangerous phishing emails. Discover seven ways to identify phishing emails."
 date: 2021-03-30T22:40:54-04:00
 draft: false
 ---

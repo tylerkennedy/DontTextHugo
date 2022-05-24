@@ -1,5 +1,6 @@
 ---
 title: "What is Smishing and How to Spot an Attack"
+description: "Smishing is a special type of phishing attack that targets mobile users over SMS text messages."
 date: 2021-03-15T19:12:20-05:00
 draft: false
 ---

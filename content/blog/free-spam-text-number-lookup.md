@@ -1,5 +1,6 @@
 ---
 title: "Is This Number Spam? - How to Lookup Spam Text Phone Numbers"
+description: "Use the free Dont Text lookup tool to check if any phone number or email address is used to send spam text messages."
 date: 2021-11-04T16:23:20-04:00
 draft: false
 cover:

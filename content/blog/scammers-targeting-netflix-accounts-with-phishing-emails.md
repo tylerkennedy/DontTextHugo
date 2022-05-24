@@ -1,5 +1,6 @@
 ---
 title: "Scammers Targeting Netflix Accounts with Phishing Emails"
+description: "Online attackers are increasingly targeting Netflix account owners with phishing emails and spam texts."
 date: 2021-05-06T22:46:09-04:00
 draft: false
 ---
@@ -36,7 +37,7 @@ The best way to protect yourself is to choose a strong and unique password for e
 
 ## Credit Card Information
 
-Your password is not the only target in Netflix phishing attempts. Attackers also want to steal your credit card infomation.
+Your password is not the only target in Netflix phishing attempts. Attackers also want to steal your credit card information.
 
 Phishing is used to steal financial information all the time. Credit card based phishing attempts are common. These attacks usually come as an email asking you to update your billing info. 
 

@@ -1,5 +1,6 @@
 ---
 title: "Protect Yourself Against Phishing"
+description: "Knowing how to protect yourself against phishing is an important skill for staying safe online."
 date: 2021-04-24T14:43:04-04:00
 draft: false
 ---

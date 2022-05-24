@@ -1,5 +1,6 @@
 ---
 title: "Does iPhone Have a Junk Folder for Text Messages"
+description: "Your iPhone has a junk folder for text messages similar to your email inbox. Turn on your text messages junk folder to block spam."
 date: 2022-05-17T20:49:09-04:00
 draft: false
 cover:
@@ -8,7 +9,7 @@ cover:
     relative: false 
 ---
 
-If you use email then you are already familar with how spam and junk folders work. Whenever you receive an unwanted spam email, your inbox automatically moves the junk mail straight to the junk folder. 
+If you use email then you are already familiar with how spam and junk folders work. Whenever you receive an unwanted spam email, your inbox automatically moves the junk mail straight to the junk folder. 
 
 When your inbox misses a junk email and fails to move it to the junk folder automatically, you can mark the email as spam yourself and move it to the junk folder. Over time, your inbox will get smarter and keep sorting more of the junk mail into the junk folder. 
 
@@ -34,7 +35,7 @@ The Known Senders and Unknown Senders folders allow you to sort your text messag
 
 ### Transactions and Promotions 📢
 
-The Transcations and Promotions folder can be used to sort out automated text messages that you receive. 
+The Transactions and Promotions folder can be used to sort out automated text messages that you receive. 
 
 The Transactions folder is used to filtering texts for online receipts. The Promotions folder is used to sort out marketing text messages from advertisers. 
 

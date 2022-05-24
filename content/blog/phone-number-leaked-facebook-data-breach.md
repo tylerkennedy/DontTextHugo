@@ -1,5 +1,6 @@
 ---
 title: "Was My Phone Number Leaked in the Facebook Data Breach?"
+description: "Check if your phone number was leaked in the latest Facebook data breach and find out how to protect yourself."
 date: 2021-06-22T18:15:33-04:00
 draft: false
 cover:
