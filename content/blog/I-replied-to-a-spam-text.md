@@ -3,6 +3,10 @@ title: "I Replied to a Spam Text: Am I Safe?"
 description: "Responding to spam text messages is almost never a good idea. Find out how you can stay safe if you accidentally respond to a spam text."
 date: 2021-03-02T01:49:45-05:00
 draft: false
+cover:
+    image: "assets/images/i-replied-to-a-spam-text-am-i-safe-banner.png"
+    alt: "I Replied to a Spam Text Message"
+    relative: false 
 ---
 
 So you just received and a fresh spam text message. One of two things happened next:
