@@ -3,6 +3,7 @@ title: "End User License Agreement"
 date: 2021-02-01T01:27:15-05:00
 draft: false
 disableShare: true
+noindex: true
 ---
 
 Dont Text is licensed to You (End-User) by Tyler Kennedy for use only under the terms of this License Agreement.

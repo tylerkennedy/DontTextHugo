@@ -5,6 +5,10 @@ theme = "PaperMod"
 paginate = 5
 enableEmoji= true
 
+disableKinds = ["taxonomy", "term"]
+[taxonomies]
+    category = "categories"
+    tag = "tags"
 
 [params]
   homeText = "You just made a Hugo blog from scratch."
