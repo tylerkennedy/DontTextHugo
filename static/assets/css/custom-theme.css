@@ -39,3 +39,43 @@
 .dark.list {
   background: var(--theme);
 }
+
+/* 404 Page */
+
+.not-found {
+  display: flex;
+  position: unset !important;
+  font-size: large !important;
+  flex-direction: column;
+  width: 90%;
+  margin: 0px auto;
+  padding-top: 40px;
+}
+
+.not-found > h2 {
+  font-size: 1.8em !important;
+  padding-top: 12px;
+}
+
+.not-found > h3 {
+  font-size: large !important;
+  padding-top: 12px;
+  padding-bottom: 24px;
+  text-align: left;
+}
+
+.not-found > ul > li {
+  list-style-type: none;
+  border-bottom: solid 4px transparent;
+}
+
+.not-found > ul > li:before {
+  content: "\2192 \0020";
+  padding-right: 8px;
+  color: var(--dt-green);
+}
+
+.not-found > ul > li > a:hover {
+  border-bottom: solid 4px var(--dt-green) !important;
+  transition: 0.1s;
+}
