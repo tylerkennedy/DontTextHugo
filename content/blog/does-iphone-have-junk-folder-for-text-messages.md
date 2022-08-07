@@ -1,5 +1,5 @@
 ---
-title: "Does iPhone Have a Junk Folder for Text Messages"
+title: "Does iPhone Have a Junk Folder for Text Messages?"
 description: "Your iPhone has a junk folder for text messages similar to your email inbox. Turn on your text messages junk folder to block spam."
 date: 2022-05-17T20:49:09-04:00
 draft: false

@@ -83,7 +83,7 @@ Another effective way to avoid spam texts is by adding phone numbers to your con
 
 Please do not [reply to spam](/blog/i-replied-to-a-spam-text/) texts. This lets the spammer know that your phone number is active. Spammers start sending more texts to phone numbers that they know are active because their attacks are more likely to work. Unless you want more smishes, do not reply to spam texts, even if it's just to mess with them.
 
-## How to Block Smishing
+## How to Block Smishing Text Messages
 
 You've made it this far and now you know what is a smishing text and how awful they are. You even learned some ways that you can keep yourself safe from smishing texts. Wouldn't it be wonderful if there was a way you could just remove them from your phone for good? I have exciting news for you, *there is a way*.
 
