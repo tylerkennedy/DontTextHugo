@@ -1,7 +1,7 @@
 ---
 title: "Can You Get Hacked by Replying to a Text?"
 date: 2022-08-07T22:15:49-04:00
-draft: true
+draft: false
 cover:
     image: "assets/images/can-you-get-hacked-by-replying-to-a-text-banner.png"
     alt: "Can You Get Hacked by Replying to a Text"
