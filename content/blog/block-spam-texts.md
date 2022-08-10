@@ -26,10 +26,11 @@ After downloading the app, follow the instructions on the screen to enable the a
 If you didn't see this screen, here's a quick refresher on how to enable the app in your settings:
 
 1.  Download Dont Text from the [App Store](https://apps.apple.com/us/app/dont-text/id1540836811/)
-2.  Go to settings on your device
+2.  Go to the settings app on your device
 3.  Scroll down and tap on 'Messages'
 4.  Scroll down and tap on 'Unknown & Spam'
-5.  Select Dont Text to allow the app to filter your messages
+5. Toggle to enable ‘Filter Unknown Senders'
+6.  Select Dont Text to allow the app to filter your messages
 
 ## Add Keywords in the App
 Great! Now that you have the app downloaded and filtering enabled, it's time to start blocking spam texts. Dont Text makes this really easy.
