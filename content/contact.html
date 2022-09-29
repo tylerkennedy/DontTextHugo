@@ -35,12 +35,64 @@ date: 2022-08-23T00:14:58-04:00
     color: var(--primary);
     border: 1px solid var(--border);
   }
+
+  .faq {
+    font-size: large !important;
+    background-color: rgb(214, 245, 202);
+    border-radius: var(--radius);
+    padding: var(--gap);
+    margin-bottom: 50px;
+  }
+
+  .faq a {
+    background-color: unset !important;
+    text-decoration: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    font-size: large !important;
+  }
+
+  .faq > ul > li {
+    list-style-type: none;
+    border-bottom: solid 4px transparent;
+  }
+
+  .faq > ul > li:before {
+    content: "\2192 \0020";
+    padding-right: 8px;
+    color: var(--dt-green);
+  }
+
+  .faq > ul > li > a:hover {
+    border-bottom: solid 4px var(--dt-green) !important;
+    transition: 0.1s;
+  }
+
 </style>
-<form action="https://formspree.io/f/xayaerya" method="POST">
-  <p>Get in touch for questions, concerns, and general app suport.</p>
-  <h3>Email</h3>
-  <input type="email" name="_replyto" required>
-  <h3>Message</h3>
-  <textarea name="body"></textarea>
-  <input type="submit" value="Send">
-</form>
+<div class="faq">
+    <h3>Check out these answers to common questions</h3>
+    <ul>
+      <li>
+        <a href="/faq/#im-still-getting-spam-texts-why-isnt-the-app-working">I am still getting spam texts, why isn’t the app working?</a>
+      </li>
+      <li>
+        <a href="/faq/#how-do-i-request-a-refund">How do I request a refund?</a>
+      </li>
+      <li>
+        <a href="/faq/#how-do-i-cancel-my-subscription">How do I cancel my subscription?</a>
+      </li>
+    </ul>
+</div>
+<div>
+  <form action="https://formspree.io/f/xayaerya" method="POST">
+    <p>Couldn't find the answer you were looking for? Get in touch for questions, concerns, and general app suport.</p>
+    <h3>Email</h3>
+    <input type="email" name="_replyto" required>
+    <h3>Message</h3>
+    <textarea name="body"></textarea>
+    <input type="submit" value="Send">
+  </form>
+  
+</div>

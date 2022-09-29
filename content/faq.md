@@ -20,10 +20,10 @@ Dont Text is only available for iOS devices.
 ### How do I enable text message filtering?
 
 1.  Download [Dont Text from the App Store](https://apps.apple.com/us/app/dont-text/id1540836811)
-2.  Go to settings
-3.  Scroll down and tap on Messages
-4.  Scroll down and tap on Spam & Filtering
-5.  Select Dont Text to allow our app to filter your messages
+2.  Go to the settings app on your device
+3.  Scroll down and tap on ‘Messages’
+4.  Scroll down and tap on ‘Unknown & Spam’
+5.  Toggle to enable ‘Filter Unknown Senders' and select Dont Text
 
 ### I'm still getting spam texts. Why isn't the app working?
 
@@ -101,6 +101,10 @@ Dont Text currently only offers a year-long subscription.
 ### Is there a free trial?
 
 Not at the moment. You can use the free version of the app forever. If you decide to upgrade you can cancel at any time and continue using the free version.
+
+### How do I request a refund?
+
+You can request a refund from Apple for your purchase of a Worry Free Filtering Subscription. Use [this link](https://support.apple.com/en-us/HT204084) for a step-by-step guide from Apple on the refund process.
 
 ### How do I cancel my subscription?
 
