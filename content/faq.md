@@ -17,6 +17,10 @@ date: 2022-08-23T00:14:58-04:00
 
 Dont Text is only available for iOS devices.
 
+### Can the app block texts on Mac computers?
+
+Unfortunately, Dont Text can not filter texts on Mac. This is a commonly requested feature, but Apple does not allow developers to build spam text filtering apps for Mac, so Dont Text only works on iOS devices (iPhone and iPad)
+
 ### How do I enable text message filtering?
 
 1.  Download [Dont Text from the App Store](https://apps.apple.com/us/app/dont-text/id1540836811)
