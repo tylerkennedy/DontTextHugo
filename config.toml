@@ -12,6 +12,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   homeText = "You just made a Hugo blog from scratch."
+  description = "Block spam texts with Dont Text. Download the app from the App Store to keep your inbox spam-free with automatic spam text filtering"
   defaultTheme = "light"
   ShowShareButtons = true
   ShowReadingTime = true
