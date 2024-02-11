@@ -39,13 +39,23 @@ After you install Dont Text, you need to enable text message filtering in your s
 
 > **Follow along with [the complete guide for blocking spam texts](/blog/block-spam-texts) with Dont Text**
 
-Once you update your settings, you can get started. Dont Text gives you two easy ways to block spam texts. 
+Once you update your settings, you can get started. Dont Text gives you three easy ways to block spam texts. 
+
+## Filter Email Senders
+
+The first option is the most straightforward and should do the job for most people. 
+
+All you have to do is turn on one toggle in Dont Text to block all unwanted text messages coming from email addresses with Dont Text.
+
+![Filter Email Senders](/assets/images/filter-email-senders.png#center "Filter Email Senders")
+
+Start by opening Dont Text, then go to the **Filtering Settings** tab. Here, switch on the feature to Filter email senders. With this setting activated, Dont Text will automatically block any incoming texts from email addresses that aren't recognized in your contact list.
 
 ### Use Keywords to Block Spam
 
 ![Block Spam with Keywords](/assets/images/features.png#center "Dont Text Block Spam Texts with Keywords")
 
-The first way you can start blocking spam is by adding keywords in Dont Text. Go to the first tab to view your block list. This tab is where you create keywords to filter incoming texts from unknown senders. Dont Text will only filter text messages from senders **not** saved in your contacts.
+The second way you can start blocking spam is by adding keywords in Dont Text. Go to the first tab to view your filtering settings. This tab is where you create keywords to filter incoming texts from unknown senders. Dont Text will only filter text messages from senders **not** saved in your contacts.
 
 To create a new keyword, press 'Add' in the top right corner. On the screen that follows, enter your keyword and select 'block' for that keyword. Keywords with the 'block' setting block any text containing that word. Alternatively, selecting 'allow' lets any text past the filter that has the keyword.
 

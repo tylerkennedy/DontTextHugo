@@ -35,7 +35,7 @@ If you didn't see this screen, here's a quick refresher on how to enable the app
 ## Add Keywords in the App
 Great! Now that you have the app downloaded and filtering enabled, it's time to start blocking spam texts. Dont Text makes this really easy.
 
-Go to the first tab in the app labeled 'Block List'. This tab is where you can add custom keywords in the app. Keywords give you the power to choose how to block spam texts.
+Go to the first tab in the app labeled **Filtering**. This tab is where you can add custom keywords in the app. Keywords give you the power to choose how to block spam texts.
 
 ![List of Keywords](/assets/images/blockList.png#center "List of Keywords")
 
@@ -50,13 +50,23 @@ Blocked messages are sent to the junk tab in the messages app.
 You can also set keywords to allow messages through the filter. This prevents a message from being accidentally blocked by another keyword.
 
 ## How to Add Keywords in the App
-To add a keyword in the app, tap 'Add' in the top right corner on the 'Block List' tab. You should then see this screen:
+To add a keyword in the app, tap 'Add' in the top right corner on the **Filtering** tab. You should then see this screen:
 
 ![Add Keyword to Block Spam Texts](/assets/images/addKeyword.png#center "Add Keyword to Block Spam Texts")
 
 Choose the type of keyword (block or allow) and enter the keyword. Once you've done that press 'Add' and you're all set.
 
 You can keep adding as many keywords as you want.
+
+## Filter Email Senders
+
+If you get a lot of unwanted text messages from email addresses, you might want to block all incoming texts sent from email addresses.
+
+With Dont Text, this is easy.
+
+![Filter Email Senders](/assets/images/filter-email-senders.png#center "Filter Email Senders")
+
+Open up Dont Text and in the **Filtering Settings** tab, enable the toggle to Filter email senders. With this setting turned on, Dont Text will block all incoming texts from email addresses that are not in your contacts.
 
 ## Upgrade to Worry Free Filtering (Optional)
 For more help blocking spam texts, upgrade to Worry Free Filtering. Worry Free Filtering lets you skip the hassle of adding keywords and block spam instantly. Dont Text will automatically block all spam texts even if your keywords do not filter the message. To upgrade, purchase Worry Free Filtering inside the app on the upgrade tab.

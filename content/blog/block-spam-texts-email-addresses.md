@@ -37,13 +37,23 @@ When you install the app, you need to enable text message filtering in your sett
 
 > **Follow along with [the complete guide for blocking spam texts](/blog/block-spam-texts) with Dont Text**
 
-After updating your settings, you are ready to go. Dont Text gives you two super simple ways for blocking spam texts. 
+After updating your settings, you are ready to go. Dont Text gives you a few super simple ways for blocking spam texts. 
+
+## Filter Email Senders
+
+The first option is the easiest. If you receive an overwhelming number of unsolicited text messages from email addresses, you have the option to block all incoming texts sent from emails.
+
+It take 2 seconds with Dont Text.
+
+![Filter Email Senders](/assets/images/filter-email-senders.png#center "Filter Email Senders")
+
+Simply launch Dont Text, navigate to **Filtering Settings**, and activate the option to Filter email senders. By enabling this feature, Dont Text will prevent all incoming texts from email addresses not listed in your contacts from reaching you.
 
 ### Add Keywords to Block Spam
 
 ![Block Spam with Keywords](/assets/images/features.png#center "Dont Text Block Spam Texts with Keywords")
 
-The first way you can start blocking spam is by adding keywords inside the app. Click the first tab to view your block list. This is where you can add keywords to filter incoming texts from unknown senders. 
+The next way you can start blocking spam is by adding keywords inside the app. Click the first tab to view your filtering settings. This is where you can add keywords to filter incoming texts from unknown senders. 
 
 Tap 'Add' in the top right corner and add in a keyword. Selecting 'block' for that keyword will block any text containing the word. Alternatively, selecting 'allow' lets any text past the filter that has the keyword.
 
