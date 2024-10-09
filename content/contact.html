@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Contact to get in touch with questions, concerns, and general app suport for Dont Text"
+description: "Contact to get in touch with questions, concerns, and general app support for Dont Text"
 draft: false
 ShowReadingTime: false
 disableShare: true
@@ -91,12 +91,27 @@ date: 2022-08-23T00:14:58-04:00
 </div>
 <div>
   <form action="https://formspree.io/f/xayaerya" method="POST">
-    <p>Couldn't find the answer you were looking for? Get in touch for questions, concerns, and general app suport.</p>
+    <p>Couldn't find the answer you were looking for? Get in touch for questions, concerns, and general app support.</p>
     <h3>Email</h3>
     <input type="email" name="_replyto" required>
     <h3>Message</h3>
     <textarea name="body"></textarea>
+    <!-- Hidden field for userAppId -->
+    <input type="hidden" id="userAppId" name="userAppId" value="">
     <input type="submit" value="Send">
   </form>
-  
 </div>
+
+<script>
+  // Function to extract appId from the URL
+  function getQueryParam(param) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+  }
+
+  // Set the value of userAppId if appId is present
+  const appId = getQueryParam('appId');
+  if (appId) {
+    document.getElementById('userAppId').value = appId;
+  }
+</script>
