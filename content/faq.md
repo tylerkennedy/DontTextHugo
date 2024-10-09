@@ -71,7 +71,7 @@ To delete a keyword from the block list, swipe the row of the keyword by draggin
 
 Dont Text only checks text messages from unknown senders. Dont Text cannot access text messages between you and your contacts, or any texts that you send. Dont Text can only check incoming messages from a number not saved in your contacts.
 
-Apple limits the ability of apps from accessing text messages data and therefore, Dont Text cannot read your text messages. Continue reading [here](https://developer.apple.com/documentation/sms_and_call_reporting/sms_and_mms_message_filtering) for information about Apple's app limitations.
+Apple limits our ability to access your text messages data. When a text is filtered, Apple only allows us to see the unknown sender's phone number and the content of the text message. Your phone number or personal information is never shared with us. Continue [reading](https://www.apple.com/legal/privacy/data/en/sms-filtering/) for information about Apple’s app limitations.
 
 ### What data do you store?
 
