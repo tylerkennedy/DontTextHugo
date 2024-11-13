@@ -38,9 +38,9 @@ url = "https://apps.apple.com/us/app/dont-text/id1540836811/"
 weight = 20
 
 [[menu.main]]
-identifier = "Tools"
-name = "Tools"
-url = "/spam-text-number-lookup/"
+identifier = "FAQ"
+name = "FAQ"
+url = "/faq/"
 weight = 30
 
 [[menu.main]]
