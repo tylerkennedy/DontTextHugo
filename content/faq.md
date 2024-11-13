@@ -15,16 +15,17 @@ date: 2022-08-23T00:14:58-04:00
 
 ### Do you have an android app?
 
-Dont Text is only available for iOS devices.
+Dont Text is only available for iOS devices at this time.
 
 ### Can the app block texts on Mac computers?
 
-Unfortunately, Dont Text can not filter texts on Mac. This is a commonly requested feature, but Apple does not allow developers to build spam text filtering apps for Mac, so Dont Text only works on iOS devices (iPhone and iPad)
+Unfortunately, Dont Text can not filter texts on Mac. This is a commonly requested feature, but Apple does not allow developers to build spam text filtering apps for Mac, so Dont Text only works on iOS devices (iPhone and iPad).
 
 ### How do I enable text message filtering?
 
 1.  Download [Dont Text from the App Store](https://apps.apple.com/us/app/dont-text/id1540836811)
 2.  Go to the settings app on your device
+    * (iOS 18 and later only) Go to Apps inside the Settings app
 3.  Scroll down and tap on ‘Messages’
 4.  Scroll down and tap on ‘Unknown & Spam’
 5.  Toggle to enable ‘Filter Unknown Senders' and select Dont Text
@@ -33,7 +34,7 @@ Unfortunately, Dont Text can not filter texts on Mac. This is a commonly request
 
 If you are still getting spam texts after downloading Dont Text, there are a couple things to check for.
 
-1. Make sure you followed the steps [above](#how-do-i-enable-text-message-filtering) to enable text filtering. 
+1. Make sure you followed the steps [above](#how-do-i-enable-text-message-filtering) to enable text filtering. Dont Text can only filter spam if you've given the app permission to filter texts.
 
 2. Check that you have added keywords with the 'block' setting inside the app or upgraded to Worry Free Filtering.
 

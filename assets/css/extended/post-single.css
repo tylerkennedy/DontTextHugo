@@ -18,3 +18,7 @@ p.share-heading {
   padding-right: 15px;
   font-weight: bold;
 }
+
+.post-content ul {
+  margin-bottom: initial;
+}
