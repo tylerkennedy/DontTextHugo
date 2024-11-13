@@ -71,7 +71,7 @@ Blocking spam texts before they hit your phone is a good first line of defense. 
 
 ### Setup Spam Text Message Filtering
 
-After installing Dont Text, you need to enable text message filtering in your settings. Open the settings app, then go to 'Messages', then 'Unknown & Spam'. Toggle the button to enable text message filtering and make sure to check Dont Text. This gives Dont Text permission to filter text messages on your phone.
+After installing Dont Text, you need to enable text message filtering in your settings. Open the settings app, then go to the 'Apps' section in settings (iOS 18 and later only), then 'Messages', then 'Unknown & Spam'. Toggle the button to enable text message filtering and make sure to check Dont Text. This gives Dont Text permission to filter text messages on your phone.
 
 > **Follow along with [the complete guide for blocking spam texts](/blog/block-spam-texts) with Dont Text**
 

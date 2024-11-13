@@ -25,7 +25,7 @@ Unfortunately, Dont Text can not filter texts on Mac. This is a commonly request
 
 1.  Download [Dont Text from the App Store](https://apps.apple.com/us/app/dont-text/id1540836811)
 2.  Go to the settings app on your device
-    * (iOS 18 and later only) Go to Apps inside the Settings app
+    * (iOS 18 and later only) Go to the 'Apps' section inside the Settings app
 3.  Scroll down and tap on ‘Messages’
 4.  Scroll down and tap on ‘Unknown & Spam’
 5.  Toggle to enable ‘Filter Unknown Senders' and select Dont Text

@@ -22,6 +22,7 @@ iOS includes a [built-in setting](https://support.apple.com/guide/iphone/block-f
 ### Here's how you do it:
 
 1. Go to settings on your iPhone
+    * (iOS 18 and later only) Go to the 'Apps' section inside the Settings app
 2. Scroll down and tap on ‘Messages’
 3. Scroll down and tap on ‘Unknown & Spam’
 4. Enable ‘Filter Unknown Senders’

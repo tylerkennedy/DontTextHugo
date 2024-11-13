@@ -51,7 +51,7 @@ The junk folder can only be enabled by [downloading a spam text filtering app](h
 
 ## How To Enable Junk Folder For Texts in iPhone Settings
 
-To start using these folders on your iPhone, you need to enable text message filtering on your iPhone. The first step is opening the settings app on your phone. 
+To start using these folders on your iPhone, you need to enable text message filtering on your iPhone. The first step is opening the settings app on your phone. If you are on iOS 18 or later go to the **Apps** section in settings. 
 
 Next, go to the **Messages** section in your settings. After that, scroll down to **Unknown & Spam** and click it. 
 
@@ -65,7 +65,7 @@ To get the full power of text message filtering on your iPhone, you will need to
 
 Once you've downloaded the app onto your phone, go back to your settings to enable the junk folder.
 
-Go to **Settings > Messages > Unknown & Spam** and click on **Dont Text** to enable the app to filtering spam text messages. 
+Go to **Settings > Apps (iOS 18 or later only) > Messages > Unknown & Spam** and click on **Dont Text** to enable the app to filtering spam text messages. 
 
 ![Enable Dont Text in Your Settings](/assets/images/enable-dont-text-settings.jpeg#center "Enable Dont Text in Your Settings")
 
@@ -84,6 +84,7 @@ Second, if you don't see the back button to access filters, make sure that you f
 **Recap**: Here is a quick step-by-step guide for turning on the junk folder for text messages:
 
 1. Go to settings on your iPhone
+    * (iOS 18 and later only) Go to the **Apps** section inside the Settings app
 2. Scroll down and tap on **Messages**
 3. Scroll down and tap on **Unknown & Spam**
 4. Toggle **Filter Unknown senders**
