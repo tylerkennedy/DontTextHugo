@@ -60,7 +60,7 @@
     {{- if .Site.Params.ShowPostNavLinks }}
     {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{- if and (gt (len $pages) 1) (in $pages . ) }}
-    {{- partial "subscribe.html" . }}
+    <!-- {{- partial "subscribe.html" . }} -->
     <nav class="paginav">
       {{- with $pages.Next . }}
       <a class="prev" href="{{.Permalink}}">
