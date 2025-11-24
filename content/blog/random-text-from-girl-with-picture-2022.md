@@ -64,7 +64,7 @@ If you have an iPhone, there are a couple of ways that you can prevent spam text
 
 There is a [hidden feature](https://support.apple.com/en-us/HT201229) buried in your iPhone's settings that you can turn on to filter spam and junk messages. When you enable this setting, all text messages from unknown numbers are sent to a junk folder in your messages app. This setting also turns off notification from junk texts, so no more spam messages blowing up your phone!
 
-To activate this setting, go to your Settings app, then go to the 'Apps' section in settings (iOS 18 and later only), then Messages, and find Unknown & Spam. Inside this menu is an option to enable Filter Unknown Senders. Toggle this setting on to enable junk message filtering on your iPhone.
+To activate this setting, go to your Settings app, then go to the 'Apps' section in settings, then Messages, and find Unknown & Spam. Inside this menu is an option to enable Filter Unknown Senders. Toggle this setting on to enable junk message filtering on your iPhone.
 
 ![iPhone Text Message Filters](/assets/images/iphone-text-message-filters.PNG#center "iPhone Text Message Filters")
 

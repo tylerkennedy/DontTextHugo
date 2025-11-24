@@ -2,7 +2,7 @@ baseURL = "https://donttext.app/"
 languageCode = "en-us"
 title = "Dont Text"
 theme = "PaperMod"
-paginate = 5
+pagination.pagerSize = 5
 enableEmoji= true
 
 disableKinds = ["taxonomy", "term"]

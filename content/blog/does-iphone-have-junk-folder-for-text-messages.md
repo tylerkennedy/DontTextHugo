@@ -83,11 +83,11 @@ Second, if you don't see the back button to access filters, make sure that you f
 
 **Recap**: Here is a quick step-by-step guide for turning on the junk folder for text messages:
 
-1. Go to settings on your iPhone
-    * (iOS 18 and later only) Go to the **Apps** section inside the Settings app
-2. Scroll down and tap on **Messages**
-3. Scroll down and tap on **Unknown & Spam**
-4. Toggle **Filter Unknown senders**
+1.  Go to the settings app on your device
+2.  Go to the 'Apps' section inside the Settings app
+3.  Scroll down and tap on **Messages**
+4.  Scroll down and tap on **Unknown & Spam**
+5.  Toggle to enable **Filter Unknown senders**
 
 ## Block Spam Texts with Dont Text
 

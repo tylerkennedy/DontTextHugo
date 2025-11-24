@@ -1,6 +1,8 @@
 # Test files
 playground.py
 credentials.yml
+
+public/
  
 ### macOS ###
 # General

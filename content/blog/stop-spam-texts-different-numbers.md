@@ -22,10 +22,10 @@ iOS includes a [built-in setting](https://support.apple.com/guide/iphone/block-f
 ### Here's how you do it:
 
 1. Go to settings on your iPhone
-    * (iOS 18 and later only) Go to the 'Apps' section inside the Settings app
-2. Scroll down and tap on ‘Messages’
-3. Scroll down and tap on ‘Unknown & Spam’
-4. Enable ‘Filter Unknown Senders’
+2. Go to the 'Apps' section inside the Settings app
+3. Scroll down and tap on ‘Messages’
+4. Scroll down and tap on ‘Unknown & Spam’
+5. Toggle to enable ‘Filter Unknown Senders'
 
 The only downside of this setting is that **all** messages from unknown senders will get blocked. Sometimes you will filter the wrong messages on accident. Maybe you get automated texts from different stores or restaurants you wouldn't want to block. The only way to ensure they go unblocked is to save those numbers to your contacts. 
 

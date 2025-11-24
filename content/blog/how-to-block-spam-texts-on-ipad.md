@@ -32,10 +32,10 @@ This is the simplest way to block spam texts, but not the most effective. If you
 A better solution to spam texts is to block all texts from unknown senders. With this setting, any number or email address not saved in your contacts will be blocked. Messages from these unsaved contacts will go straight to the junk folder in the messages app and you will not get a notification. You can enable this setting in four easy steps.
 
 1. Go to settings on your iPad
-    * (iOS 18 and later only) Go to the 'Apps' section inside the Settings app
-2. Scroll down and tap on 'Messages'
-3. Scroll down and tap on 'Unknown & Spam'
-4. Enable 'Filter Unknown Senders'
+2. Go to the 'Apps' section inside the Settings app
+3. Scroll down and tap on ‘Messages’
+4. Scroll down and tap on ‘Unknown & Spam’
+5. Toggle to enable ‘Filter Unknown Senders' and select Dont Text
 
 The downside of this setting is that if you receive any texts from a sender not in your contacts you will not get the notification. The message will still appear in your messages app but it will be under the Junk tab.
 

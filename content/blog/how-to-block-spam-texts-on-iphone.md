@@ -31,10 +31,10 @@ This method works great if you get spam texts from the same sender. However, if 
 You also have the option to eliminate spam by blocking all texts from unknown senders. By enabling this setting you will no longer receive notifications when you get a text from a sender not saved in your contacts. This makes it easy to block spam that comes from different senders. Here are the steps:
 
 1. Go to settings on your iPhone
-    * (iOS 18 and later only) Go to the 'Apps' section inside the Settings app
-2. Scroll down and tap on 'Messages'
-3. Scroll down and tap on 'Unknown & Spam'
-4. Enable 'Filter Unknown Senders'
+2. Go to the 'Apps' section inside the Settings app
+3. Scroll down and tap on ‘Messages’
+4. Scroll down and tap on ‘Unknown & Spam’
+5. Toggle to enable ‘Filter Unknown Senders' and select Dont Text
 
 The downside of this setting is that if you receive any texts from a sender not in your contacts you will not get the notification. The message will still appear in your messages app but it will be under the Junk tab.
 
